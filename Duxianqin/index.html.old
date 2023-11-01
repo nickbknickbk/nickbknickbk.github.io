@@ -1,0 +1,159 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Duxianqin Workshop 2019</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body id="top">
+
+		<!-- Header -->
+			<header id="header">
+				<h0><strong>独弦琴</strong></h0><br />
+				
+			</header>
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- One -->
+					<section id="one">
+						<header class="major">
+						<center>
+						<img src = "images/fulls/Duxianqin_logo.png" width = 75%></center>
+						
+						<!--<h1>Duxianqin Workshop 2019</h1>-->
+						</header>
+						<h4>Cross-cultural Workshop on Reimagining Traditional Music Instruments through Digital Technologies</h4>
+						
+						<p>The workshop will focus on the Duxianqin, a traditional a Solo String instrument popular in southern Guangxi and Vietnam, and explore the use of Digital Music Technology and Interaction Design to reimagine this one-stringed traditional instrument in a creative way.</p>
+						<p>Participants in the workshop will include Queen Mary University of London (QMUL) Media and Arts Technology (MAT) Centre teachers and students, and teachers and students of China Conservatory of Music (CCM), solo string players, etc.</p>
+						<p>Participants are responsible in small groups for a specific part of the project, such as the shape design of the instrument, sound synthesis, sensor data acquisition, interactive design, etc.</p>
+												
+<h3>Objectives of the Workshop</h3>
+<ol>
+<li>To study the cultural and social background of the solo stringed instrument, as well as its performance characteristics and performance techniques;</li>
+<li>Explore common techniques for designing Digital Musical Instruments, such as sensors, microcontrollers, sound modeling and composition techniques, to enhance the design of the Duxianqin (adding functionality to the original instrument) or redesigning (retaining only its core functions and other parts redesigned);</li>
+<li>Study how people interact with the re-imagined Duxianqin after re-design.</li>
+<li>The workshop end with an exhibition or concert to be presented to the public.</li>
+</ol>
+
+<h3>Design Explorations</h3>
+Digital Music Technologies and Interaction Design will be used to explore design challenges of:
+<ul>
+<li><i>Size</i>: how to create a physically smaller Duxianqin yet with equal sound control;</li>
+<li><i>Sound</i>: how to produce a wider range of sounds and/ or polyphony;</li>
+<li><i>Ease of play</i>: using techniques such as quantization to reduce precision needed to play Duxianqin;</li>
+<li><i>Learnability</i>: augment Duxianqin with interactive displays to provide feedback on playing.</li>
+</ul>
+
+<h3>Workshop Schedule</h3>
+<p>The workshop structure will be modified version of the Qi2He 起承转合 (Qǐ-Chéng-Zhuǎn-Hé) co-creation process (Bryan-Kinns et al., 2018).</p>
+
+<p><i>Day 1 (Guqin base)</i> Reciprocal cultural immersion<br>
+9:00AM Travel to Guqin base (1.5 hours)<br>
+10:30AM Duxianqin cultural immersion<br>
+12:30PM lunch<br>
+1:30PM Duxianqin learning<br> 
+3:00PM tea + discussion<br>
+4:00PM Digital music immersion (demos)<br>
+then Dinner<br>
+Travel back (1.5 hours)<br></p>
+
+<p><i>Day 2 (CCoM):</i> Co-design<br>
+09:30AM arrival<br>
+10:00AM start<br>
+Group discussion and brainstorming for digitally reimagining the Duxianqin<br>
+12:00noon lunch<br>
+1:00PM Group discussion and brainstorming for digitally reimagining the Duxianqin<br>
+3:00PM Tea time<br>
+Identify people in design team, and set design/ build work activities.<br>
+6:00PM Finish<br>
+</p>
+
+<p><i>Day 3 (CCoM):</i>
+Digital reimagining design and implementation. Performance and music creation;
+</p>
+
+<p><i>Day 4 (CCoM):</i>
+Digital reimagining implementation. Performance and music development;
+</p>
+
+<p><i>Day 5 (CCoM):</i> Rehearsal, reflection, and performance<br>
+
+10:00AM Rehearsal and any refinement<br>
+
+12:00noon Lunch<br>
+
+1:00PM Reflection on design and development process<br>
+
+3:00PM Tea<br>
+Contingency time<br>
+
+4:00PM Performance set up<br>
+
+6:00PM Mini-Performance with reimagined Duxianqin (30 mins)<br>
+
+Performances:<br>
+1. Traditional music with traditional Duxianqin and/ or Erhu or other traditional instrument<br>
+2. Modern music with reimagined Duxianqin<br>
+3. Electronic music (Chinese performer)<br>
+
+</p>
+						
+						<h3>About the Duxianqin</h3>
+						<p>Duxianqin ("独弦琴", meaning “single-string instrument”) is interesting as it is a plucked string instrument with only one string and an unusual pitch modulation mechanism for the left hand. It is a traditional musical instrument played in very southern part of China (Guangxi province) and in Vietnam by Jing(京) people. The instrument can be played either as solo, singing accompaniment or in ensemble. Originating from ancient times, the music of Duxianqin usually tells wishes and hopes for better life, love stories and hymn for their hometown.</p>
+							
+							<h3>Related Materials</h3>
+														
+							<p>Duxianqin playing guide {<a href = "pdfs/Duxianqin_playing.pdf">pdf</a>}<br>
+							
+							Slowqin research paper {<a href = "pdfs/slowqin.pdf">pdf</a>}<br>
+						
+							Lisa Beebe's PhD on the Vietnamese Dan Bau (Duxianqin) {<a href = "pdfs/DANBAU_PhD.pdf">pdf</a>}</p>
+							
+							<p>Bryan-Kinns, N., Wang, W., & Ji, T. (2018). Exploring Interactivity and Co-Creation in Rural China. <a href = "https://academic.oup.com/iwc/advance-article/doi/10.1093/iwc/iwy010/4993736?guestAccessKey=5a7404af-eea0-4154-8a78-c2ab7dff8204">Interacting with Computers</a>. Oxford University Press. <a href = "pdfs/BryanKinns_Wang_Ji_2018_Exploring_Interactivity_IwC.pdf">{pdf}</a></p>
+
+<p>Wang, W., Bryan-Kinns, N., & Ji, T. (2016). Using community engagement to drive co-creation in rural China. <a href = "http://www.ijdesign.org/ojs/index.php/IJDesign/article/view/2458/722">International Journal of Design</a>, 10(1), 37-52. <a href = "pdfs/Wang_Bryan-Kinns_Ji_2016_CoCreativity_in_Rural_China_IJD.pdf">{pdf}</a></p>							
+
+														
+					</section>
+								
+<hr>
+					
+				       <h6>Template: <a href="http://html5up.net/">HTML5 UP</a> </h6>
+
+			</div>
+
+		<!-- Footer -->
+		
+		<!--
+			<footer id="footer">
+				<ul class="icons">
+					<li><a href="https://twitter.com/nickbknickbk" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+				</ul>
+				
+				<ul class="copyright">
+                <h6><strong>Supported by:</strong><br /> <a href = "http://www.ccmusic.edu.cn">China Conservatory of Music</a><br /> <a href = "http://www.mat.qmul.ac.uk">EPSRC+AHRC Media and Arts Technology CDT</a><br /><a href = "http://qmul.ac.uk">Queen Mary University of London</a></h6> 
+
+				</ul>
+			</footer>
+            -->    
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

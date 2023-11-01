@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Co-creating Interactivity and Performance across Cultures 2015</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/scrolling-nav.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<!-- The #page-top ID is part of the scrolling feature - the data-spy and data-target are part of the built-in Bootstrap scrollspy function -->
+
+
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">NEWCHANNEL 2015</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a class="page-scroll" href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#overview">Overview</a>
+                    </li>
+                   
+                    <li>
+                        <a class="page-scroll" href="#background">The Bigger Picture</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#team">The Team</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Overview Section -->
+    <section id="overview" class="intro-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-9">
+                    <h1>The Project <small>Co-creating Interactivity and Performance across Cultures</small></h1>
+                   
+                    <p>A collaboration between <a href="http://www.qmul.ac.uk/">Queen Mary University of London</a> and <a href="http://www-en.hnu.edu.cn/">Hunan University, Changsha, China</a>, with the Kam ethnic minority, China. Over 13 days in rural China we built a Maker space in the village of Hengling, and co-created an interactive drama and interactive art exhibition which was attended by over 300 local people.
+                    </p>
+                    
+                    
+                    <div class="col-lg-12"> 
+                     <!-- Video Embedd -->
+                     <div class="project-vid">            
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <video poster="video/poster_video_short.png" class="embed-responsive-item" controls >
+                                <source src="video/Video_short_360.mp4" type="video/mp4">
+                                <source src="video/Video_short_360.webm" type="video/webm">
+                                Your Browser supports neither MP4 nor WebM video formats. Sorry.     
+                                </video>         
+                            </div>
+                        <p>Hengling village making and interactive performance</p>
+                     </div>
+                    </div>
+                   
+                    <!--<a class="btn btn-default page-scroll" href="#background">Watch the long version</a>-->
+                                       
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+  <p><br></p>
+    
+    <!-- Bigger Picture Section -->
+    <section id="background" class="intro-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-9">
+                    <h1>The Bigger Picture <small>New Channel 2015 Summer Camp </small></h1>
+                    
+                    <p>Hunan University has led the New Channel Social Innovation Summer Camp successfully since 2009, with students, professors, designers, social researchers, and global companies like Microsoft and Huawei from around the world.
+</p>
+                    
+                    <div class="col-lg-12"> 
+                     <!-- Video Embedd -->
+                     <div class="project-vid">            
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <video poster="video/poster_video_long.jpg" class="embed-responsive-item" controls >
+                                <source src="video/Video_long_360.mp4" type="video/mp4">
+                                <source src="video/Video_long_360.webm" type="video/webm">
+                                Your Browser supports neither MP4 nor WebM video formats. Sorry.      
+                                </video>         
+                            </div>
+                        <p>Hunan Summer Camp 2015</p>
+                     </div>
+                    </div>
+                                       
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Team Section -->
+    <section id="team" class="contact-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-9">
+                    <h1>The Team</h1>
+                    
+                    <p>The QM team was led by <a href="http://www.eecs.qmul.ac.uk/~nickbk/">Dr. Nick Bryan-Kinns</a>, with <a href="http://www.benbengler.com/">Dr. Ben Bengler</a> from the <a href="http://isam.eecs.qmul.ac.uk/">Interactional Sound and Music (ISAM)</a> of the Centre for Digital Music, <a href="http://www.qmul.ac.uk/">Queen Mary University of London</a>. Our lead collaborator was Dr. Wei Wang, <a href="http://www-en.hnu.edu.cn/">Hunan University, Changsha, China</a>.</p>
+                    <p>The QM team included students from across the University: Mahnoor		Ahmad, Rachael Inman, Ross MacMillan, Billie Moore, and Zsofia Meszaros.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Scrolling Nav JavaScript -->
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/scrolling-nav.js"></script>
+
+</body>
+
+</html>
